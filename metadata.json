@@ -1,0 +1,6 @@
+{
+  "name": "DualPrompter",
+  "description": "Professional dual-frame teleprompter camera studio for recording vertical and horizontal videos simultaneously with synchronized scrolling script.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
